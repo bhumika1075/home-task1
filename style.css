@@ -4,44 +4,41 @@
     height: 80px;
     
 }
-.hi{
+.NewsBlog{
     background-color:white;
     width: 200px;
-    border: 2px solid red; 
+    border: 1px solid red; 
     height: 50px;
     margin-left: 40%;
     margin-top: 10px;
     text-align: center;
     justify-content: center;
-
-
 }
 
 .container{
     height: 40px;
     display: flex;
-
 }
-.box1{
+.category{
     height: 50px;
 }
-.box2{
-    margin-left: 400px;
+.news{
+    margin-left: 360px;
 }
 
-.box3{
-    margin-left: 200px;
+.subscribe{
+    margin-left: 300px;
 }
 
-.hello{
+.blogs{
     gap: 40px;
     height: 150px;
     display: flex;
     border:2px blue;
 }
 
-.para1{
-    display: flex;
+.blog1,blog2,blog3{
     gap: 40px;
 }
+
 
